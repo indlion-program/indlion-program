@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi there! 👋 I'm [Your Name]
+### Hi there! 👋 I'm amir niko
 
 🚀 **About Me**
 I'm a cybersecurity enthusiast and developer passionate about:
