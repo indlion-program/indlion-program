@@ -23,7 +23,7 @@ I share:
 
 🌐 **Connect with Me**
 - [https://www.linkedin.com/in/amir-niko-314283243/](#)
-- [Medium Blog](#)
+- [[Medium Blog](https://medium.com/@lagolariot/taking-advantage-of-ld-preload-f525b1a141aa)](#)
 - [Twitter](#)
 
 📊 **GitHub Stats**  
