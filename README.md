@@ -27,7 +27,7 @@ I share:
 - [Twitter](#)
 
 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indlion-program&show_icons=true&theme=radical)
 
 💡 **Featured Projects**
 🔹 [Project 1 - Name](#)  
