@@ -1,4 +1,41 @@
 ## Hi there 👋
+### Hi there! 👋 I'm [Your Name]
+
+🚀 **About Me**
+I'm a cybersecurity enthusiast and developer passionate about:
+- 🔍 Vulnerability Research
+- 🛠️ Automation & Scripting
+- 🐍 Python Development
+- 🔐 malware anlysis
+- Securing linode learning cybersecurity labs. 
+  includes:
+  1. linode guidance
+  2. security architecture.
+  3. access over vpn
+  4. setting up iptables and nat.
+
+📌 **What You'll Find Here**
+I share:
+- Exploit Proof-of-Concepts (PoCs)
+- Security Research & Write-ups
+- Python Tools & Automation Scripts
+- CTF Challenges & Solutions
+
+🌐 **Connect with Me**
+- [https://www.linkedin.com/in/amir-niko-314283243/](#)
+- [Medium Blog](#)
+- [Twitter](#)
+
+📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+💡 **Featured Projects**
+🔹 [Project 1 - Name](#)  
+🔹 [Project 2 - Name](#)  
+🔹 [Project 3 - Name](#)
+
+Let's connect and explore security together! 🚀
+
 
 <!--
 **indlion-program/indlion-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
